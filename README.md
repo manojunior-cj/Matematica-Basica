@@ -1,2 +1,2 @@
-# Matem-tica-B-sica-
+# Matemática-Básica
 Plano de estudo para vestibular.
