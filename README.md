@@ -33,14 +33,14 @@ Temos diversas formas de solucionar para calcular a porcentagem. Abaixo passarei
 
 **Exemplo 1 -**
 
-calcule 20% de 60
+calcule 30% de 90
 
 Na regra de três o 60 corresponde a um todo, ou seja, 100% do valor. Os 20% nos não sabemos, então colocamos o X. 
 
 ![exemplo-1](img/exemplo-1.png)
 
 
-100.X = 60.20
+100.X = 90.30
 
 X = 2700/100
 
