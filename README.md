@@ -37,7 +37,7 @@ calcule 20% de 60
 
 Na regra de três o 60 corresponde a um todo, ou seja, 100% do valor. Os 20% nos não sabemos, então colocamos o X. 
 
-![exemplo-1](exemplo-1.png)
+[exemplo-1](exemplo-1.png)
 
 | **Valor**  |  **Porcentagem** | 
 |:-----------|-----------------:|
