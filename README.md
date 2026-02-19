@@ -47,3 +47,5 @@ X = 2700/100
 X = 27
 
 **Exemplo 2 -**
+
+<img src="https://github-readme-stats.vercel.app/api?username=manojunior-cj&show_icons=true&theme=radical&cache_seconds=1800"/>
